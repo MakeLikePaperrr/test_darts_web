@@ -16,20 +16,20 @@ minimal_mistakes_skin    : "custom" #"default" # "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Geosciences and random stuff"
+title                    : "DARTS - Delft Advanced Research Terra Simulator"
 title_separator          : "|"
-name                     : &name "Shahar Shani-Kadmiel"
-description              : &description "(yet another) Geosciences blog"
-url                      : "https://shaharkadmiel.github.io"
+name                     : &name "Stephan de Hoop"
+description              : &description "Providing information on the current state of DARTS"
+url                      : "https://darts-web.githug.io/"
 baseurl                  : # "/blog"
-repository               : "shaharkadmiel/shaharkadmiel.github.io"
+repository               : "darts-web.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : &uname1 "shaharkadmiel"
+    shortname            : &uname1 "makeLikePaperrr"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -79,7 +79,7 @@ naver_site_verification  :
 twitter:
   username               : *uname1
 facebook:
-  username               : &uname2 shahar.kadmiel
+  username               : &uname2 loseControlll
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
