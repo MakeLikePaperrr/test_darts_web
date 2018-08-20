@@ -20,9 +20,9 @@ title                    : "DARTS - Delft Advanced Research Terra Simulator"
 title_separator          : "|"
 name                     : &name "Stephan de Hoop"
 description              : &description "Providing information on the current state of DARTS"
-url                      : "https://darts-web.githug.io/"
+url                      : "https://makelikepaperrr.github.io/test_darts_web/"
 baseurl                  : # "/blog"
-repository               : "darts-web.github.io"
+repository               : "test_darts_web.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
