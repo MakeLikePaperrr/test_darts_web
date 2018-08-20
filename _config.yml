@@ -101,10 +101,10 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : https://avatars1.githubusercontent.com/u/6872529
-  bio              : "A seismo-acoustics postdoc researcher at Delft University of Technology"
+  avatar           : images/headers/img_0551.jpg
+  bio              : "A PhD-candidate at the Delft University of Technology"
   location         : "TU Delft<br>The Netherlands"
-  email            : "s.shanikadmiel@tudelft.nl"
+  email            : "s.dehoop-1@tudelft.nl"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -122,14 +122,14 @@ author:
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : "1579211/shahar"
+  stackoverflow    : 
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          : *uname1
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/ShaharShaniKadmiel"
+  youtube          : "https://www.youtube.com/PewdiePie"
 
 
 # Reading Files
