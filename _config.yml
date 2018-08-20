@@ -21,7 +21,7 @@ title_separator          : "|"
 name                     : &name "Stephan de Hoop"
 description              : &description "Providing information on the current state of DARTS"
 url                      : "https://makelikepaperrr.github.io/test_darts_web/"
-baseurl                  : # "/blog"
+baseurl                  : https://makelikepaperrr.github.io/test_darts_web/# "/blog"
 repository               : "https://github.com/MakeLikePaperrr/test_darts_web"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
